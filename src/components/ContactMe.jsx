@@ -31,7 +31,7 @@ const ContactMe = () => {
     <>
     <img className={ ok ? 'okk' : 'ok'} src="/portfolio-img/me-ok-removebg.png" alt="3d man" />
       <div className={ ok ? 'contact-ok' : 'contact'}>
-        <img src="/public/portfolio-img/me 5_prev_ui.png" alt="3d man" />
+        <img src="/portfolio-img/me 5_prev_ui.png" alt="3d man" />
         <form onSubmit={onSubmit}>
           <input type="text" name="name" placeholder='Name' />
           <input type="email" name="email" placeholder='Email'/>
