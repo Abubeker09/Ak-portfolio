@@ -32,7 +32,7 @@ const Sidebar = () => {
             </li>
           </Link>
           <Link
-            to={`https://api.whatsapp.com/send?phone=${979794557}`}
+            to={`https://api.whatsapp.com/send?phone=${+251979794557}`}
             target="_blank"
           >
             <li>
