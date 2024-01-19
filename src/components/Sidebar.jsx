@@ -45,7 +45,7 @@ const Sidebar = () => {
             </li>
           </Link>
           <Link
-            to="https://www.linkedin.com/in/abubeker-bedilu-76322b2a8/"
+            to="https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav"
             target="_blank"
           >
             <li>
